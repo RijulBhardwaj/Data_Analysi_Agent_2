@@ -1,4 +1,4 @@
-# Integrating GPT Assistance with Autogen: Agent for Data Analysis and Querying
+# Agent for Data Analysis and Querying : Using Autogen & GPTAssistance
 
 ## Design Flow: Prompt Processing with Autogen and OpenAI
 
